@@ -14,6 +14,7 @@ The workflow consists of:
 - Adding layer controls for interactive exploration
 - Exporting the final map as an HTML file
 
+
 Librabry Used
 - OSMnx
 - GeoPandas
@@ -21,6 +22,7 @@ Librabry Used
 - Shapely
 - Pandas
 - NumPy
+
 
 Features
 - Interactive web map
@@ -34,6 +36,7 @@ Features
 - Automatic map centering
 - Responsive web visualization
 
+
 During this project I learned how to:
 - Retrieve geospatial data directly from OpenStreetMap
 - Work with GeoDataFrames
@@ -43,6 +46,7 @@ During this project I learned how to:
 - Create multiple feature layers
 - Style spatial data using custom colors and markers
 - Export interactive maps for sharing
+
 
 The techniques demonstrated in this project can be applied to:
 - Urban planning
