@@ -13,3 +13,44 @@ The workflow consists of:
 - Styling each POI category with different colors and symbols
 - Adding layer controls for interactive exploration
 - Exporting the final map as an HTML file
+
+Librabry Used
+- OSMnx
+- GeoPandas
+- Folium
+- Shapely
+- Pandas
+- NumPy
+
+Features
+- Interactive web map
+- Administrative boundary visualization
+- Multiple POI layers
+  - 🍽 Restaurants
+  - ⛽ Fuel Stations
+  - 🏥 Healthcare Facilities
+- Custom marker colors
+- Layer toggle control
+- Automatic map centering
+- Responsive web visualization
+
+During this project I learned how to:
+- Retrieve geospatial data directly from OpenStreetMap
+- Work with GeoDataFrames
+- Handle different geometry types
+- Convert polygons into representative point locations
+- Build interactive web maps with Folium
+- Create multiple feature layers
+- Style spatial data using custom colors and markers
+- Export interactive maps for sharing
+
+The techniques demonstrated in this project can be applied to:
+- Urban planning
+- Smart city development
+- Emergency service accessibility
+- Retail location analysis
+- Tourism mapping
+- Public facility planning
+- Disaster management
+- Transportation studies
+- Environmental monitoring
